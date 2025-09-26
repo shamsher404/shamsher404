@@ -1,6 +1,13 @@
 # 👋 Hello, I'm Shamsher Khan
 <a href="https://www.linkedin.com/in/shamsher-khan404/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://www.youtube.com/@shamsher.404"><img src="https://img.shields.io/badge/-YouTube-FF0000?&style=for-the-badge&logo=YouTube&logoColor=white" /></a>
+![CEH](https://img.shields.io/badge/Certified-Ethical%20Hacker-red)
+![Security+](https://img.shields.io/badge/CompTIA-Security%2B-blue)
+![AWS](https://img.shields.io/badge/AWS-Solution%20Architect-orange)
+![Linux](https://img.shields.io/badge/Linux-Security-lightgrey)
+![Python](https://img.shields.io/badge/Code-Python-yellow)
+![Docker](https://img.shields.io/badge/Tools-Docker-blue)
+
 
 
 As an instructor and cybersecurity expert, I am passionate about equipping learners with hands-on, practical experiences in cybersecurity. Here, you’ll find my popular GitHub projects, books, courses, bootcamp, and upcoming free webinars.
