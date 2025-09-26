@@ -61,9 +61,37 @@
 
 As an instructor and cybersecurity expert, I am passionate about equipping learners with hands-on, practical experiences in cybersecurity. Here, you’ll find my popular GitHub projects, books, courses, bootcamp, and upcoming free webinars.
 
-# 💻 Tech Stack
-<!-- Badges from https://github.com/Ileriayo/markdown-badges -->
-![Kali Linux](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+## 🛠️ Tools & Technologies
+
+<p align="left">
+  <!-- Kali Linux -->
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux"/>
+
+  <!-- Metasploit -->
+  <img src="https://img.shields.io/badge/Metasploit-2E2E2E?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit"/>
+
+  <!-- Nmap -->
+  <img src="https://img.shields.io/badge/Nmap-00457C?style=for-the-badge&logo=gnuprivacyguard&logoColor=white" alt="Nmap"/>
+
+  <!-- Splunk -->
+  <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" alt="Splunk"/>
+
+  <!-- Wazuh -->
+  <img src="https://img.shields.io/badge/Wazuh-02569B?style=for-the-badge&logo=wazuh&logoColor=white" alt="Wazuh"/>
+
+  <!-- Wireshark -->
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"/>
+
+  <!-- Docker -->
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+
+  <!-- Linux -->
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+
+  <!-- Python -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+</p>
+
 
 🌍 Delivered **1500+ trainings** across corporates & universities (IBM, Honeywell, IITs, NITs, LPU, DU, etc.)  
 🌎 International trainer in **US, Canada, Saudi Arabia, Oman**  
