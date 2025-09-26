@@ -25,7 +25,7 @@
   </a>
 
   <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/shamsher404/">
+  <a href="https://www.linkedin.com/in/shamsher-khan404/">
     <img alt="LinkedIn" 
     src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
@@ -37,15 +37,15 @@
   </a>
 
   <!-- TryHackMe Rank -->
-  <a href="https://tryhackme.com/p/shamsher404">
+  <a href="https://tryhackme.com/p/Shamsher">
     <img alt="TryHackMe Rank" 
-    src="https://tryhackme-badges.s3.amazonaws.com/shamsher404.png"/>
+    src="https://tryhackme-badges.s3.amazonaws.com/Shamsher.png"/>
   </a>
 
   <!-- Twitter Followers -->
-  <a href="https://twitter.com/shamsher_404">
+  <a href="https://x.com/shamsherkhannn">
     <img alt="Twitter Followers" 
-    src="https://img.shields.io/twitter/follow/shamsher_404?style=for-the-badge&logo=twitter&logoColor=white&color=1DA1F2"/>
+    src="https://img.shields.io/twitter/follow/shamsherkhannn?style=for-the-badge&logo=twitter&logoColor=white&color=1DA1F2"/>
   </a>
 
   <!-- Facebook -->
@@ -54,6 +54,7 @@
     src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
 </p>
+
 
 
 As an instructor and cybersecurity expert, I am passionate about equipping learners with hands-on, practical experiences in cybersecurity. Here, you’ll find my popular GitHub projects, books, courses, bootcamp, and upcoming free webinars.
