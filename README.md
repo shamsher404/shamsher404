@@ -1,14 +1,60 @@
 # 👋 Hello, I'm Shamsher Khan
    <p align="left">
-      <a href="https://www.youtube.com/@shamsher.404?sub_confirmation=1">
-         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCKxWlkyWoxfa3EOVXzMhDPQ?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
-      <a href="https://www.youtube.com/@shamsher.404">
-         <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCKxWlkyWoxfa3EOVXzMhDPQ?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
-      <a href="https://github.com/shamsher404?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/shamsher404?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/shamsher404?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/shamsher404?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-   </p>
+  <!-- YouTube Subscribers -->
+  <a href="https://www.youtube.com/@shamsher.404?sub_confirmation=1">
+    <img alt="YouTube Subscribers" 
+    src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCKxWlkyWoxfa3EOVXzMhDPQ?color=%23E05D44&label=SUBSCRIBE&logo=youtube&logoColor=white&style=for-the-badge&labelColor=CE4630"/>
+  </a>
+
+  <!-- YouTube Views -->
+  <a href="https://www.youtube.com/@shamsher.404">
+    <img alt="YouTube Views" 
+    src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCKxWlkyWoxfa3EOVXzMhDPQ?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/>
+  </a>
+
+  <!-- GitHub Followers -->
+  <a href="https://github.com/shamsher404?tab=followers">
+    <img alt="GitHub Followers" 
+    src="https://custom-icon-badges.demolab.com/github/followers/shamsher404?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow&logoColor=white"/>
+  </a>
+
+  <!-- GitHub Stars -->
+  <a href="https://github.com/shamsher404?tab=repositories&sort=stargazers">
+    <img alt="GitHub Stars" 
+    src="https://custom-icon-badges.demolab.com/github/stars/shamsher404?color=55960c&style=for-the-badge&labelColor=488207&logo=star&logoColor=white"/>
+  </a>
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/shamsher404/">
+    <img alt="LinkedIn" 
+    src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <!-- Instagram -->
+  <a href="https://www.instagram.com/shamsher.404/">
+    <img alt="Instagram" 
+    src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+
+  <!-- TryHackMe Rank -->
+  <a href="https://tryhackme.com/p/shamsher404">
+    <img alt="TryHackMe Rank" 
+    src="https://tryhackme-badges.s3.amazonaws.com/shamsher404.png"/>
+  </a>
+
+  <!-- Twitter Followers -->
+  <a href="https://twitter.com/shamsher_404">
+    <img alt="Twitter Followers" 
+    src="https://img.shields.io/twitter/follow/shamsher_404?style=for-the-badge&logo=twitter&logoColor=white&color=1DA1F2"/>
+  </a>
+
+  <!-- Facebook -->
+  <a href="https://www.facebook.com/shamsher.404/">
+    <img alt="Facebook" 
+    src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+</p>
+
 
 As an instructor and cybersecurity expert, I am passionate about equipping learners with hands-on, practical experiences in cybersecurity. Here, you’ll find my popular GitHub projects, books, courses, bootcamp, and upcoming free webinars.
 
