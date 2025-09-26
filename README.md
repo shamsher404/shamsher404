@@ -43,7 +43,7 @@
   </a>
 
 <!-- Twitter -->
-<a href="https://x.com/shamsherkhannn">
+<a href="https://x.com/shamsher404">
   <img alt="Twitter Followers"
   src="https://img.shields.io/badge/Followers-1.5K-blue?style=for-the-badge&logo=twitter&logoColor=white"/>
 </a>
