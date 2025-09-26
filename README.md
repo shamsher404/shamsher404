@@ -100,6 +100,24 @@ As an instructor and cybersecurity expert, I am passionate about equipping learn
   <img src="https://img.shields.io/badge/FTK-2E2E2E?style=for-the-badge&logo=fortran&logoColor=white" alt="FTK"/>
 </p>
 
+## 🏆 Certifications  
+
+<p align="left">
+  <!-- CEH -->
+  <img src="https://img.shields.io/badge/CEH-v12-red?style=for-the-badge&logo=hackaday&logoColor=white" alt="CEH v12"/>
+
+  <!-- CompTIA Security+ -->
+  <img src="https://img.shields.io/badge/CompTIA-Security%2B-blue?style=for-the-badge&logo=comptia&logoColor=white" alt="CompTIA Security+"/>
+
+  <!-- AWS Solution Architect -->
+  <img src="https://img.shields.io/badge/AWS-Solution%20Architect%20Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Solution Architect"/>
+
+  <!-- NSE 1 -->
+  <img src="https://img.shields.io/badge/Fortinet-NSE%201-EE1C25?style=for-the-badge&logo=fortinet&logoColor=white" alt="NSE 1"/>
+
+  <!-- Cisco Cybersecurity Essentials -->
+  <img src="https://img.shields.io/badge/Cisco-Cybersecurity%20Essentials-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Cybersecurity Essentials"/>
+</p>
 
 
 🌍 Delivered **1500+ trainings** across corporates & universities (IBM, Honeywell, IITs, NITs, LPU, DU, etc.)  
