@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👨‍💻 Shamsher Khan  
 
-<!--
-**shamsher404/shamsher404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Cybersecurity Trainer | Ethical Hacker | AWS Solution Architect**  
+🔐 Certified: CEHv12 | Security+ | AWS-SA | NSE 1 | Cisco Cybersecurity Essentials  
 
-Here are some ideas to get you started:
+🌍 Delivered **1500+ trainings** across corporates & universities (IBM, Honeywell, IITs, NITs, LPU, DU, etc.)  
+🌎 International trainer in **US, Canada, Saudi Arabia, Oman**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📊 GitHub Analytics
+
+![Shamsher's GitHub stats](https://github-readme-stats.vercel.app/api?username=shamsher404&show_icons=true&theme=radical)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shamsher404&layout=compact&theme=radical)  
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shamsher404&theme=radical)  
+
+![Profile views](https://komarev.com/ghpvc/?username=shamsher404&label=Profile%20views&color=0e75b6&style=flat)  
+
+---
+
+## 🛠️ Skills
+- **Cybersecurity & Ethical Hacking** (Network, Web, Malware, Forensics, SOC)  
+- **Tools:** Splunk, Wazuh, Metasploit, Wireshark, Docker  
+- **Programming & Scripting:** Python, Bash, PowerShell, C/C++  
+- **Cloud & DevOps:** AWS, Linux, Docker, Kubernetes  
+
+---
+
+## 🚀 Featured Projects
+- 🔥 AI-Driven Malware Analysis & Reporting  
+- 🛡️ Ethical Hacking Lab Manuals (DVWA, Metasploitable)  
+- 📊 SOC Automation with Wazuh & Splunk  
+- 🐧 Linux for Cybersecurity Students  
