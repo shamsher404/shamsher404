@@ -61,36 +61,45 @@
 
 As an instructor and cybersecurity expert, I am passionate about equipping learners with hands-on, practical experiences in cybersecurity. Here, you’ll find my popular GitHub projects, books, courses, bootcamp, and upcoming free webinars.
 
-## 🛠️ Tools & Technologies
+## 🛡️ Cybersecurity & Tech Stack  
 
 <p align="left">
-  <!-- Kali Linux -->
+  <!-- Cybersecurity Tools -->
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux"/>
-
-  <!-- Metasploit -->
   <img src="https://img.shields.io/badge/Metasploit-2E2E2E?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit"/>
-
-  <!-- Nmap -->
   <img src="https://img.shields.io/badge/Nmap-00457C?style=for-the-badge&logo=gnuprivacyguard&logoColor=white" alt="Nmap"/>
-
-  <!-- Splunk -->
-  <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" alt="Splunk"/>
-
-  <!-- Wazuh -->
-  <img src="https://img.shields.io/badge/Wazuh-02569B?style=for-the-badge&logo=wazuh&logoColor=white" alt="Wazuh"/>
-
-  <!-- Wireshark -->
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"/>
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite"/>
+  <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP"/>
 
-  <!-- Docker -->
+  <!-- SIEM & Monitoring -->
+  <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" alt="Splunk"/>
+  <img src="https://img.shields.io/badge/Wazuh-02569B?style=for-the-badge&logo=wazuh&logoColor=white" alt="Wazuh"/>
+  <img src="https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elasticstack&logoColor=white" alt="ELK Stack"/>
+  
+  <!-- Cloud & DevOps -->
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
 
-  <!-- Linux -->
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-
-  <!-- Python -->
+  <!-- Programming & Scripting -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+
+  <!-- Operating Systems -->
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu"/>
+
+  <!-- Digital Forensics -->
+  <img src="https://img.shields.io/badge/Autopsy-0A0A0A?style=for-the-badge&logo=autopsy&logoColor=white" alt="Autopsy"/>
+  <img src="https://img.shields.io/badge/Volatility-39477F?style=for-the-badge&logo=probot&logoColor=white" alt="Volatility"/>
+  <img src="https://img.shields.io/badge/FTK-2E2E2E?style=for-the-badge&logo=fortran&logoColor=white" alt="FTK"/>
 </p>
+
 
 
 🌍 Delivered **1500+ trainings** across corporates & universities (IBM, Honeywell, IITs, NITs, LPU, DU, etc.)  
