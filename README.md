@@ -119,6 +119,16 @@ As an instructor and cybersecurity expert, I am passionate about equipping learn
   <img src="https://img.shields.io/badge/Cisco-Cybersecurity%20Essentials-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Cybersecurity Essentials"/>
 </p>
 
+## 📺 Latest YouTube Videos
+<!-- YOUTUBE:START -->
+- [CSRF Vulnerability Part-2](https://www.youtube.com/watch?v=xZorjIRwgxA)
+- [CSRF Vulnerability Part-1](https://www.youtube.com/watch?v=Z5jxitWjZS8)
+- [SQL Injection Attack Part-2](https://www.youtube.com/watch?v=pCwfTHiD5as)
+- [SQL Injection Attack Part-1](https://www.youtube.com/watch?v=t9plbzPadZA)
+- [Brute Force Attack](https://www.youtube.com/watch?v=nwfsOdHfq5k)
+- [Burpsuite Pro](https://www.youtube.com/watch?v=P8s4lOkSpNk)
+<!-- YOUTUBE:END -->
+
 
 🌍 Delivered **1500+ trainings** across corporates & universities (IBM, Honeywell, IITs, NITs, LPU, DU, etc.)  
 🌎 International trainer in **US, Canada, Saudi Arabia, Oman**  
@@ -137,16 +147,3 @@ As an instructor and cybersecurity expert, I am passionate about equipping learn
 
 ---
 
-## 🛠️ Skills
-- **Cybersecurity & Ethical Hacking** (Network, Web, Malware, Forensics, SOC)  
-- **Tools:** Splunk, Wazuh, Metasploit, Wireshark, Docker  
-- **Programming & Scripting:** Python, Bash, PowerShell, C/C++  
-- **Cloud & DevOps:** AWS, Linux, Docker, Kubernetes  
-
----
-
-## 🚀 Featured Projects
-- 🔥 AI-Driven Malware Analysis & Reporting  
-- 🛡️ Ethical Hacking Lab Manuals (DVWA, Metasploitable)  
-- 📊 SOC Automation with Wazuh & Splunk  
-- 🐧 Linux for Cybersecurity Students  
