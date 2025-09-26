@@ -119,15 +119,66 @@ As an instructor and cybersecurity expert, I am passionate about equipping learn
   <img src="https://img.shields.io/badge/Cisco-Cybersecurity%20Essentials-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Cybersecurity Essentials"/>
 </p>
 
-## 📺 Latest YouTube Videos
-<!-- YOUTUBE:START -->
-- [CSRF Vulnerability Part-2](https://www.youtube.com/watch?v=xZorjIRwgxA)
-- [CSRF Vulnerability Part-1](https://www.youtube.com/watch?v=Z5jxitWjZS8)
-- [SQL Injection Attack Part-2](https://www.youtube.com/watch?v=pCwfTHiD5as)
-- [SQL Injection Attack Part-1](https://www.youtube.com/watch?v=t9plbzPadZA)
-- [Brute Force Attack](https://www.youtube.com/watch?v=nwfsOdHfq5k)
-- [Burpsuite Pro](https://www.youtube.com/watch?v=P8s4lOkSpNk)
-<!-- YOUTUBE:END -->
+## 🎥 Featured YouTube Videos  
+
+<p align="center">
+
+  <!-- Video 1 -->
+  <a href="https://www.youtube.com/watch?v=xZorjIRwgxA" target="_blank">
+    <img src="https://img.youtube.com/vi/xZorjIRwgxA/0.jpg" width="300" alt="SQL Injection Attack"/>
+  </a>  
+  <br/>
+  <b>CSRF Vulnerability Part-2</b>
+
+  <br/><br/>
+
+  <!-- Video 2 -->
+  <a href="https://www.youtube.com/watch?v=Z5jxitWjZS8" target="_blank">
+    <img src="https://img.youtube.com/vi/Z5jxitWjZS8/0.jpg" width="300" alt="Cross Site Request Forgery"/>
+  </a>  
+  <br/>
+  <b>CSRF Vulnerability Part-1</b>
+
+  <br/><br/>
+
+  <!-- Video 3 -->
+  <a href="https://www.youtube.com/watch?v=pCwfTHiD5as" target="_blank">
+    <img src="https://img.youtube.com/vi/pCwfTHiD5as/0.jpg" width="300" alt="Ethical Hacking Workshop"/>
+  </a>  
+  <br/>
+  <b>SQL Injection Attack Part-2</b>
+
+</p>
+
+<p align="center">
+
+  <!-- Video 4 -->
+  <a href="https://www.youtube.com/watch?v=t9plbzPadZA" target="_blank">
+    <img src="https://img.youtube.com/vi/t9plbzPadZA/0.jpg" width="300" alt="Network Security Basics"/>
+  </a>  
+  <br/>
+  <b>SQL Injection Attack Part-1</b>
+
+  <br/><br/>
+
+  <!-- Video 5 -->
+  <a href="https://www.youtube.com/watch?v=nwfsOdHfq5k" target="_blank">
+    <img src="https://img.youtube.com/vi/nwfsOdHfq5k/0.jpg" width="300" alt="Malware Analysis"/>
+  </a>  
+  <br/>
+  <b>Brute Force Attack</b>
+
+  <br/><br/>
+
+  <!-- Video 6 -->
+  <a href="https://www.youtube.com/watch?v=P8s4lOkSpNk" target="_blank">
+    <img src="https://img.youtube.com/vi/P8s4lOkSpNk/0.jpg" width="300" alt="Cybersecurity Roadmap"/>
+  </a>  
+  <br/>
+  <b>Burpsuite Pro for Windows</b>
+
+</p>
+
 
 
 🌍 Delivered **1500+ trainings** across corporates & universities (IBM, Honeywell, IITs, NITs, LPU, DU, etc.)  
