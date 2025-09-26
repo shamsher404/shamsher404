@@ -42,10 +42,12 @@
     src="https://tryhackme-badges.s3.amazonaws.com/Shamsher.png"/>
   </a>
 
+<!-- Twitter Followers -->
 <a href="https://x.com/shamsherkhannn">
   <img alt="Twitter Followers"
   src="https://img.shields.io/twitter/follow/shamsherkhannn?style=for-the-badge&logo=twitter&logoColor=white&color=1DA1F2"/>
 </a>
+
 
   <!-- Facebook -->
   <a href="https://www.facebook.com/shamsher.404/">
