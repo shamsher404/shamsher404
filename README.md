@@ -9,14 +9,6 @@
       <a href="https://github.com/shamsher404?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/shamsher404?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
-![CEH](https://img.shields.io/badge/Certified-Ethical%20Hacker-red)
-![Security+](https://img.shields.io/badge/CompTIA-Security%2B-blue)
-![AWS](https://img.shields.io/badge/AWS-Solution%20Architect-orange)
-![Linux](https://img.shields.io/badge/Linux-Security-lightgrey)
-![Python](https://img.shields.io/badge/Code-Python-yellow)
-![Docker](https://img.shields.io/badge/Tools-Docker-blue)
-
-
 
 As an instructor and cybersecurity expert, I am passionate about equipping learners with hands-on, practical experiences in cybersecurity. Here, you’ll find my popular GitHub projects, books, courses, bootcamp, and upcoming free webinars.
 
