@@ -119,67 +119,51 @@ As an instructor and cybersecurity expert, I am passionate about equipping learn
   <img src="https://img.shields.io/badge/Cisco-Cybersecurity%20Essentials-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Cybersecurity Essentials"/>
 </p>
 
-## 🎥 Featured YouTube Videos
+## 🎬 Featured YouTube Videos  
 
-<table align="center">
+<table>
   <tr>
-    <td align="center">
+    <td>
       <a href="https://www.youtube.com/watch?v=xZorjIRwgxA" target="_blank">
-        <img src="https://img.youtube.com/vi/xZorjIRwgxA/0.jpg" width="300" alt="CSRF Vulnerability Part-2"/>
+        <img src="https://img.youtube.com/vi/xZorjIRwgxA/mqdefault.jpg" alt="CSRF Vulnerability Part-2" width="300"/>
       </a>
-      <br />
-      <a href="https://www.youtube.com/watch?v=xZorjIRwgxA" target="_blank"><b>CSRF Vulnerability Part-2</b></a>
+      <br/>CSRF Vulnerability Part-2
     </td>
-
-    <td align="center">
+    <td>
       <a href="https://www.youtube.com/watch?v=Z5jxitWjZS8" target="_blank">
-        <img src="https://img.youtube.com/vi/Z5jxitWjZS8/0.jpg" width="300" alt="CSRF Vulnerability Part-1"/>
+        <img src="https://img.youtube.com/vi/Z5jxitWjZS8/mqdefault.jpg" alt="CSRF Vulnerability Part-1" width="300"/>
       </a>
-      <br />
-      <a href="https://www.youtube.com/watch?v=Z5jxitWjZS8" target="_blank"><b>CSRF Vulnerability Part-1</b></a>
+      <br/>CSRF Vulnerability Part-1
     </td>
-
-    <td align="center">
+    <td>
       <a href="https://www.youtube.com/watch?v=pCwfTHiD5as" target="_blank">
-        <img src="https://img.youtube.com/vi/pCwfTHiD5as/0.jpg" width="300" alt="SQL Injection Attack Part-2"/>
+        <img src="https://img.youtube.com/vi/pCwfTHiD5as/mqdefault.jpg" alt="SQL Injection Attack Part-2" width="300"/>
       </a>
-      <br />
-      <a href="https://www.youtube.com/watch?v=pCwfTHiD5as" target="_blank"><b>SQL Injection Attack Part-2</b></a>
+      <br/>SQL Injection Attack Part-2
     </td>
   </tr>
-
   <tr>
-    <td align="center">
+    <td>
       <a href="https://www.youtube.com/watch?v=t9plbzPadZA" target="_blank">
-        <img src="https://img.youtube.com/vi/t9plbzPadZA/0.jpg" width="300" alt="SQL Injection Attack Part-1"/>
+        <img src="https://img.youtube.com/vi/t9plbzPadZA/mqdefault.jpg" alt="SQL Injection Attack Part-1" width="300"/>
       </a>
-      <br />
-      <a href="https://www.youtube.com/watch?v=t9plbzPadZA" target="_blank"><b>SQL Injection Attack Part-1</b></a>
+      <br/>SQL Injection Attack Part-1
     </td>
-
-    <td align="center">
+    <td>
       <a href="https://www.youtube.com/watch?v=nwfsOdHfq5k" target="_blank">
-        <img src="https://img.youtube.com/vi/nwfsOdHfq5k/0.jpg" width="300" alt="Brute Force Attack"/>
+        <img src="https://img.youtube.com/vi/nwfsOdHfq5k/mqdefault.jpg" alt="Brute Force Attack" width="300"/>
       </a>
-      <br />
-      <a href="https://www.youtube.com/watch?v=nwfsOdHfq5k" target="_blank"><b>Brute Force Attack</b></a>
+      <br/>Brute Force Attack
     </td>
-
-    <td align="center">
+    <td>
       <a href="https://www.youtube.com/watch?v=P8s4lOkSpNk" target="_blank">
-        <img src="https://img.youtube.com/vi/P8s4lOkSpNk/0.jpg" width="300" alt="Burpsuite Pro for Windows"/>
+        <img src="https://img.youtube.com/vi/P8s4lOkSpNk/mqdefault.jpg" alt="Burpsuite Pro for Windows" width="300"/>
       </a>
-      <br />
-      <a href="https://www.youtube.com/watch?v=P8s4lOkSpNk" target="_blank"><b>Burpsuite Pro for Windows</b></a>
+      <br/>Burpsuite Pro for Windows
     </td>
   </tr>
 </table>
 
-<p align="center">
-  <a href="https://www.youtube.com/@shamsher.404?sub_confirmation=1" target="_blank">
-    <img src="https://img.shields.io/badge/Subscribe_on_YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Subscribe on YouTube"/>
-  </a>
-</p>
 
 
 
