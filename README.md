@@ -61,10 +61,9 @@
 
 As an instructor and cybersecurity expert, I am passionate about equipping learners with hands-on, practical experiences in cybersecurity. Here, you’ll find my popular GitHub projects, books, courses, bootcamp, and upcoming free webinars.
 
-
-
-🚀 **Cybersecurity Trainer | Ethical Hacker | AWS Solution Architect**  
-🔐 Certified: CEHv12 | Security+ | AWS-SA | NSE 1 | Cisco Cybersecurity Essentials  
+# 💻 Tech Stack
+<!-- Badges from https://github.com/Ileriayo/markdown-badges -->
+![Kali Linux](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
 🌍 Delivered **1500+ trainings** across corporates & universities (IBM, Honeywell, IITs, NITs, LPU, DU, etc.)  
 🌎 International trainer in **US, Canada, Saudi Arabia, Oman**  
