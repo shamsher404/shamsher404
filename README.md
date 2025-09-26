@@ -45,7 +45,7 @@
   <!-- Twitter Followers -->
   <a href="https://x.com/shamsherkhannn">
     <img alt="Twitter Followers" 
-    src="https://img.shields.io/twitter/follow/shamsherkhannn?style=for-the-badge&logo=twitter&logoColor=white&color=1DA1F2"/>
+    src="https://img.shields.io/twitter/follow/Twitter?style=for-the-badge&logo=twitter&logoColor=white&color=1DA1F2"/>
   </a>
 
   <!-- Facebook -->
